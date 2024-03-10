@@ -1,11 +1,25 @@
-# askchat
+# AskChat
 
-[![PyPI version](https://img.shields.io/pypi/v/askchat.svg)](https://pypi.python.org/pypi/askchat)
-[![Tests](https://github.com/cubenlp/askchat/actions/workflows/test.yml/badge.svg)](https://github.com/cubenlp/askchat/actions/workflows/test.yml/)
-[![Documentation Status](https://img.shields.io/badge/docs-github_pages-blue.svg)](https://cubenlp.github.io/askchat/)
-[![Coverage](https://codecov.io/gh/cubenlp/askchat/branch/main/graph/badge.svg)](https://codecov.io/gh/cubenlp/askchat)
+<div align="center">
+    <a href="https://pypi.python.org/pypi/askchat">
+        <img src="https://img.shields.io/pypi/v/askchat.svg" alt="PyPI version" />
+    </a>
+    <a href="https://github.com/cubenlp/askchat/actions/workflows/test.yml">
+        <img src="https://github.com/cubenlp/askchat/actions/workflows/test.yml/badge.svg" alt="Tests" />
+    </a>
+    <a href="https://cubenlp.github.io/askchat/">
+        <img src="https://img.shields.io/badge/docs-github_pages-blue.svg" alt="Documentation Status" />
+    </a>
+    <a href="https://codecov.io/gh/cubenlp/askchat">
+        <img src="https://codecov.io/gh/cubenlp/askchat/branch/main/graph/badge.svg" alt="Coverage" />
+    </a>
+</div>
+
+<div align="center">
+<img src="https://qiniu.wzhecnu.cn/PicBed6/picgo/askchat.jpeg" alt="Ask Chat" width="256">
 
 [English](README-en.md) | [简体中文](README.md)
+</div>
 
 Invoke ChatGPT from the command line.
 
